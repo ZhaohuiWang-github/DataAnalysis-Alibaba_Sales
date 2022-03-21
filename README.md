@@ -1,4 +1,6 @@
 ![](https://img.shields.io/badge/Category-Data--Analysis-success)
+![](https://img.shields.io/badge/Program-Python-green)
+![](https://img.shields.io/badge/Resource-Open-blue)
 
 # DataAnalysis-Alibaba_Sales
 Alibaba Sales Data Analysis and Visualization
