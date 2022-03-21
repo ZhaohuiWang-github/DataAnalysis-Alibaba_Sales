@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Category-Data--Analysis-success)
+
 # DataAnalysis-Alibaba_Sales
 Alibaba Sales Data Analysis and Visualization
 
